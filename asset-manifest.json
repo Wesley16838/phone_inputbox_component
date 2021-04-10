@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phone_inputbox_component/static/css/main.23bbf0ba.chunk.css",
+    "main.js": "/phone_inputbox_component/static/js/main.5fccad0c.chunk.js",
+    "main.js.map": "/phone_inputbox_component/static/js/main.5fccad0c.chunk.js.map",
+    "runtime-main.js": "/phone_inputbox_component/static/js/runtime-main.82e202cf.js",
+    "runtime-main.js.map": "/phone_inputbox_component/static/js/runtime-main.82e202cf.js.map",
+    "static/js/2.163df56b.chunk.js": "/phone_inputbox_component/static/js/2.163df56b.chunk.js",
+    "static/js/2.163df56b.chunk.js.map": "/phone_inputbox_component/static/js/2.163df56b.chunk.js.map",
+    "static/js/3.f6116494.chunk.js": "/phone_inputbox_component/static/js/3.f6116494.chunk.js",
+    "static/js/3.f6116494.chunk.js.map": "/phone_inputbox_component/static/js/3.f6116494.chunk.js.map",
+    "index.html": "/phone_inputbox_component/index.html",
+    "static/css/main.23bbf0ba.chunk.css.map": "/phone_inputbox_component/static/css/main.23bbf0ba.chunk.css.map",
+    "static/js/2.163df56b.chunk.js.LICENSE.txt": "/phone_inputbox_component/static/js/2.163df56b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e202cf.js",
+    "static/js/2.163df56b.chunk.js",
+    "static/css/main.23bbf0ba.chunk.css",
+    "static/js/main.5fccad0c.chunk.js"
+  ]
+}
